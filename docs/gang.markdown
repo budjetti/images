@@ -1,5 +1,5 @@
 layout: page
 title: "gang"
-permalink: /gang
+permalink: /images/gang
 
 hello gang
