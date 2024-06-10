@@ -1,5 +1,5 @@
 layout: page
 title: "gang"
-permalink: https://budjetti.github.io/images/gang
+permalink: /gang
 
 hello gang
